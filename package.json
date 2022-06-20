@@ -1,0 +1,14 @@
+{
+  "name": "foodieasian",
+  "version": "1.0.0",
+  "description": "asianfoodpage",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "editedkstw",
+  "license": "ISC"
+}
